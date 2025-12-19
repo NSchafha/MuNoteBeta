@@ -16,6 +16,3 @@ struct MuNoteBetaApp: App {
     }
 }
 
-
-//Github Token
-//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
